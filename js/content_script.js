@@ -7,7 +7,10 @@ var gendered = {
   'his': ['his', 'hers'],
   'hers': ['his', 'hers'],
   'His': ['His', 'Hers'],
-  'Hers': ['His', 'Hers']
+  'Hers': ['His', 'Hers'],
+  
+  'Mr.': ['Mr.', 'Mrs.'],
+  'Mrs.': ['Mr.', 'Mrs.']
 };
 
 
