@@ -14,7 +14,7 @@ var gendered = {
 // from http://stackoverflow.com/questions/273789/is-there-a-version-of-javascripts-string-indexof-that-allows-for-regular-expr
 String.prototype.regexIndexOf = function(regex, startpos) {
     var match = regex.exec(this.substring(startpos || 0));
-    console.log(match);
+
     if(!match) {
       return {
         index: -1,
