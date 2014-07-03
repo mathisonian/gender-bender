@@ -1,9 +1,11 @@
-![icon](http://i.imgur.com/Fk1xBGM.png) GenderBender  
+GenderBender  
 ===========
 
  Randomly swaps gendered pronouns.
 
 [In stall the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
+
+![icon](./logo.png)
 
 ## Information
 
