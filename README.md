@@ -3,7 +3,7 @@ GenderBender
 
  Randomly swaps gendered pronouns.
 
-[In stall the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
+[Install the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
 
 ![icon](./logo.png)
 
