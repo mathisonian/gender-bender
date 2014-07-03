@@ -3,11 +3,11 @@
 	"name": "Gender Bender",
 	"version": "1.0",
 	"description": "Randomly replaces gendered pronouns",
-	"content_scripts": 
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
+			"js": ["js/content_script.js"],
 			"run_at": "document_end"
 		}
 	]
