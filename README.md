@@ -1,13 +1,13 @@
-GenderBender
+![icon](http://i.imgur.com/Fk1xBGM.png) GenderBender  
 ===========
 
-Randomly replaces gendered pronouns.
+ Randomly swaps gendered pronouns.
 
 [In stall the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
 
 ## Information
 
-GenderBender will randomly replace the gendered pronouns (he, she, his and her) present on a webpage.
+GenderBender will randomly swap the gendered pronouns (he, she, his and her) present on a webpage.
 
 
 ## License
