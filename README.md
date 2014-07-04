@@ -1,7 +1,7 @@
 Gender Bender
 ===========
 
-Randomly swaps gendered pronouns. Let g
+Randomly swaps gendered pronouns.
 
 [Install the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
 
@@ -12,14 +12,14 @@ Randomly swaps gendered pronouns. Let g
 
 Gender Bender will randomly swap the gendered pronouns present on a webpage.
 
-  'He'    => ['He', 'She'],
-  'She'   => ['He', 'She'],
-  'His'   => ['His', 'Her'],
-  'Her'   => ['His', 'Her'],
-  'Hers'  => ['His', 'Hers'],
-  'Mr.'   => ['Mr.', 'Mrs.', 'Miss.'],
-  'Mrs.'  => ['Mr.', 'Mrs.', 'Miss.'],
-  'Miss.' => ['Mr.', 'Mrs.', 'Miss.'],
+ * `'He'    => ['He', 'She']`
+ * `'She'   => ['He', 'She']`
+ * `'His'   => ['His', 'Her']`
+ * `'Her'   => ['His', 'Her']`
+ * `'Hers'  => ['His', 'Hers']`
+ * `'Mr.'   => ['Mr.', 'Mrs.', 'Miss.']`
+ * `'Mrs.'  => ['Mr.', 'Mrs.', 'Miss.']`
+ * `'Miss.' => ['Mr.', 'Mrs.', 'Miss.']`
 
 
 ## License
