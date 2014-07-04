@@ -1,22 +1,32 @@
-GenderBender  
+Gender Bender
 ===========
 
- Randomly swaps gendered pronouns.
+Randomly swaps gendered pronouns. Let g
 
 [Install the Chrome Extension](https://chrome.google.com/webstore/detail/jaajfhcacaejhinlnleoaflddclcgnam)
 
-![icon](./logo.png)
+![icon](./icons/logo.png)
+
 
 ## Information
 
-GenderBender will randomly swap the gendered pronouns (he, she, his and her) present on a webpage.
+Gender Bender will randomly swap the gendered pronouns present on a webpage.
+
+  'He'    => ['He', 'She'],
+  'She'   => ['He', 'She'],
+  'His'   => ['His', 'Her'],
+  'Her'   => ['His', 'Her'],
+  'Hers'  => ['His', 'Hers'],
+  'Mr.'   => ['Mr.', 'Mrs.', 'Miss.'],
+  'Mrs.'  => ['Mr.', 'Mrs.', 'Miss.'],
+  'Miss.' => ['Mr.', 'Mrs.', 'Miss.'],
 
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Matt Conlen and Max Nanis. General Research Lab
+Copyright (c) 2013 Matt Conlen and Max Nanis. General Research Lab.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
